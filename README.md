@@ -30,7 +30,7 @@
 4. Inserted the formula in the shapes to diaplay the values.
 5. Created one bar chart that display category wise inventory cost and slicer will work as input to diplay day wise categorical inventory cost
 6. Created the line chart for the total inventory cost day wise for the month that trend line for the all days and sales line chart as same as inventory cost.
-7. Put slicer for to pick specific(1 to 30) of November month.
+7. Brought the on the dashboard slicer to pick specific day(1 to 30) of November month.
 8. Slicer will act as input to the Invntory cost/day, sales/day, profit/day and inventory cost perday category wise visuals.
   
 
