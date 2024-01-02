@@ -1,6 +1,6 @@
 # This project about Inventory Cost and Sales analysis of GuruAppa Hotels pvt limited for the November month 2023
 ## Aim of the Project
-1. To build the dashboard that total inventory cost category wise and total sales.
+1. To build the dashboard that display total inventory cost category wise and total sales.
 2. To find the inventory cost category wise per day and total sales per day for comparison
 3. To find the trand of inventory cost and sales throughout the month
 4. To find the relationship between total inventory cost category wise per day and total inventory cost
