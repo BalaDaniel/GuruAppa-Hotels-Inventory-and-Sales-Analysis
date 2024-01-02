@@ -12,8 +12,8 @@
 
 ## Solution
 ### Data Transformation
-1. Inserted the pivot tables for inventory cost per day, where each date as column header. Here in this stage I can't find the top categories in inventory cost.
-2. I loaded above table into the power query editor.
+1. Inserted the pivot tables for inventory cost per day, where each date as column header. Here in this stage I couldn't find the top categories in inventory cost.
+2. I loaded the above table into the power query editor.
 3. Unpivot the all columns except the cateogry column. Now my all dates in single column earlier it was as each date column header.
 4. Sort the all the data date wise.
 5. Closed and loaded the data into the excel.
